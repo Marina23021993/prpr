@@ -707,14 +707,14 @@ font-size: 40px;
         right: 0;
     }
 }
-@media (max-width:380px){
+@media (max-width:390px){
     .header_title{
         font-size: 30px;
         margin-left: 0 auto;
     }
     .cards_title h2 {
         font-size: 25px;
-        
+        padding:15px;
         word-wrap: break-word;
     }
     .cards_desk,.cards_desk2{
@@ -722,7 +722,7 @@ font-size: 40px;
      max-width: 150px;
      word-wrap: break-word;
      text-align: center;
-     
+     padding:15px;
     }
     .cards_title{
         margin-bottom: 70px;
